@@ -4,6 +4,5 @@ void main()
 {
 printf("Hello there");
 printf("c prgram")  
-getch();
-  
+getch();  
 }
